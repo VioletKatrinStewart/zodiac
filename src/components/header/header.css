@@ -1,0 +1,8 @@
+header {
+  color: pink;
+  height: 40px;
+  background-color: purple;
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+}
