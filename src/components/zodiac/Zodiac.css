@@ -1,0 +1,12 @@
+.zodiac img {
+  width: 100px;
+}
+
+.zodiac {
+  width: 150px;
+  margin: 10px;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: purple;
+  color: pink;
+}
